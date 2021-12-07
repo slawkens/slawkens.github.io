@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/slawkens/slawkens.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You may know me as _slawkens_.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+That's the nickname I took long time ago, in the time when internet was not so popular yet, well maybe already, but in the times when I was starting my adventure with programming.
 
-### Markdown
+In my open source journey I was one of the main developers of the open source project called The Forgotten Server, from version 0.3 up to 0.4, in early development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My real name however, is: Slawomir Boczek.
 
-```markdown
-Syntax highlighted code block
+I program in my spare time some open source projects, that gives me massive amount of joy.
 
-# Header 1
-## Header 2
-### Header 3
+In my professional carrier as a software developer, I worked in the company netz98 - the biggest Magento agency in Germany.
 
-- Bulleted
-- List
+Currently I work as IT Specialist in small company in the Frankfurt Area.
 
-1. Numbered
-2. List
+## Support or Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slawkens/slawkens.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you need support with my projects or want to contact me, you can do so.  
+You can find my email in my GitHub profile - www.github.com/slawkens
