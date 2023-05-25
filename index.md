@@ -19,5 +19,4 @@ Projects I worked on will be posted on separated page.
 
 ## Support or Contact
 
-If you need support with my projects or want to contact me, you can do so.  
-You can find my email in my GitHub profile - www.github.com/slawkens
+If you need support with my projects, want to hire me as freelancer, or want to contact me for any other purpose - you can find my email in my GitHub profile - www.github.com/slawkens
